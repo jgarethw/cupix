@@ -6,4 +6,7 @@
 4) Edit the cupix.xml file to point to the correct local URL
 5) Run Igloo Web and load the cupix.xml file
 6) Minimise the Layout popup in each viewport and adjust the views in the second, third, fourth and fifth viewports so they show a crude 360 view. The joins will be hard edges.
+
+![Alt text](./cupix1.png?raw=true "Cupix in Igloo Web")
+
 7) Select different panoramas in Igloo Web by picking one of the pins in the left most viewport (scene controller).
