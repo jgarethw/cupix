@@ -1,0 +1,22 @@
+<settings>
+    <FBOWidth>4800.000000000</FBOWidth>
+    <FBOHeight>600.000000000</FBOHeight>
+    <windowWidth>1400.000000000</windowWidth>
+    <numBrowsers>1.000000000</numBrowsers>
+    <streetView>0</streetView>
+    <stretch>0</stretch>
+    <zoomFactor>3.000000000</zoomFactor>
+    <panX>0.000000000</panX>
+    <panY>0.000000000</panY>
+    <popupMode>0</popupMode>
+    <spoutChannel>0</spoutChannel>
+    <captureChannel>1</captureChannel>
+    <customChannelName></customChannelName>
+    <warperIP>127.0.0.1</warperIP>
+    <warperPort>9001</warperPort>
+    <warperTxPort>9009</warperTxPort>
+    <youtubeAutoPlay>1</youtubeAutoPlay>
+    <youtubeLoop>1</youtubeLoop>
+    <URL_0>http://127.0.0.1:8887/WebGLcamera/cupix/index.html#</URL_0>
+    <relativeWidth_0>1.000000000</relativeWidth_0>
+</settings>
