@@ -10,3 +10,7 @@
 ![Alt text](./cupix1.PNG?raw=true "Cupix in Igloo Web")
 
 7) Select different panoramas in Igloo Web by picking one of the pins in the left most viewport (scene controller).
+
+![Alt text](./cupix2.PNG?raw=true "Cupix in Igloo Web")
+
+![Alt text](./cupix3.PNG?raw=true "Cupix in Igloo Web")
